@@ -51,4 +51,4 @@ printf("hello world");
 [git hub](https://github.com/allugantilakshmi431/chinni577/edit/main/README.md)
 ``
 ## inserting videos
-[![video]()](https://www.youtube.com/watch?v=mrqgz4_a4PU)
+[![video](https://img.youtube.com/vi/mrqgz4_a4PU/0.jpg)](https://www.youtube.com/watch?v=mrqgz4_a4PU)
