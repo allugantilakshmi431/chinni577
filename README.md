@@ -52,3 +52,4 @@ printf("hello world");
 ``
 ## inserting videos
 [![video](https://img.youtube.com/vi/mrqgz4_a4PU/0.jpg)](https://www.youtube.com/watch?v=mrqgz4_a4PU)
+[![video2](https://img.youtube.com/vi/NBe7fzCK2V0/0.jpg)](https://www.youtube.com/watch?v=NBe7fzCK2V0)
