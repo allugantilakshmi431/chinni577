@@ -46,3 +46,4 @@ printf("hello world");
 ```
 ### inserting urls
 [chinni](https://www.example.com)
+[college website](https://www.google.com/search?q=krishna+chaitanya+institute+of+technology+and+sciences&rlz=1C1JZAP_enIN867IN867&oq=krishna+chaitanya+institute+of+technology+and+sciences&aqs=chrome..69i57.29358j0j7&sourceid=chrome&ie=UTF-8)
