@@ -35,3 +35,12 @@ _"ece"_
 ```phthon
 print("hellow")
 ```
+
+### task insert a code of hello in c
+``` 
+#inclide <stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
