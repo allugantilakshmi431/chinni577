@@ -31,3 +31,7 @@ _"ece"_
  - cse
     - csea
     - cseb
+### code
+```phthon
+print("hellow")
+```
